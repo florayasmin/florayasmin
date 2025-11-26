@@ -2,9 +2,11 @@
   <img src="./greeting.svg" alt="Animated Greeting" />
 </div>
 
-### i'm flora, 
+### i'm flora :)
 • a first-year CS student at the University of Washington
+
 • learning the intersections of computing, language, & human-centered design
+
 • currently practicing java, typescript, c/c#, python, and more!
 
 <!--
