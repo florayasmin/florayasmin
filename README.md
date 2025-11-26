@@ -1,8 +1,10 @@
-## সালাম • hello • السلام علیکم • hola • नमस्ते • xin chào
+<div align="center">
+  <img src="./greeting.svg" alt="Animated Greeting" />
+</div>
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+সালাম • hello • السلام علیکم • hola • नमस्ते • xin chào
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
