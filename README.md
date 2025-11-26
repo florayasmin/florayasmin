@@ -3,9 +3,9 @@
 </div>
 
 ### i'm flora :)
-a first-year CS student at the University of Washington,
+a first-year computer science student at the University of Washington,
 learning the intersections of computing, language, & human-centered design.
-currently practicing java, typescript, c/c#, python, and more!
+currently practicing java, typescript, c/c#, python, and more - check out my projects!
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
