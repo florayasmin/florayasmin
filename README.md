@@ -2,6 +2,11 @@
   <img src="./greeting.svg" alt="Animated Greeting" />
 </div>
 
+### i'm flora, 
+• a first-year CS student at the University of Washington
+• learning the intersections of computing, language, & human-centered design
+• currently practicing java, typescript, c/c#, python, and more!
+
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 সালাম • hello • السلام علیکم • hola • नमस्ते • xin chào
