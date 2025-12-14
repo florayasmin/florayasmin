@@ -9,7 +9,7 @@ currently practicing java, typescript, c/c#, python, and more - check out my wor
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-সালাম • hello • السلام علیکم • hola • नमस्ते • xin chào
+সালাম • hello • السلام علیکم • hola • नमस्ते • salaam
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
