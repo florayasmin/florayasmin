@@ -3,13 +3,13 @@
 </div>
 
 ### hi! i'm flora :)
-a first-year computer science student at the University of Washington,
+a computer science student at the University of Washington,
 avidly exploring the intersections of computing, language, & human-centered design.
 currently practicing java, typescript, c/c#, python, and more - check out my work!
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-সালাম • hello • السلام علیکم • hola • नमस्ते • marhaba
+সালাম • hello • السلام علیکم • hola • नमस्ते
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
