@@ -5,7 +5,7 @@
 ### hi! i'm flora :)
 a computer science student at the University of Washington,
 avidly exploring the intersections of computing, language, & human-centered design. 
-interested in full-stack development, neuroscience, ai/ml, etc. 
+interested in full-stack dev, neuroscience, ai/ml, etc. 
 currently practicing java, typescript, c, python, + more. check out my work!
 
 <!--
