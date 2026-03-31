@@ -4,11 +4,11 @@
 
 ### hi! i'm flora :)
 a computer science student at the University of Washington,
-avidly exploring the intersections of computing, language, & human-centered design. 
-interested in full-stack dev, neuroscience, ai/ml, etc. 
-currently practicing java, typescript, c, python, + more. 
-incoming swe intern @ visa, working on agentic commerce.
-check out my work!
+avidly exploring the intersection of computing, social good, & human-centered design. check out my work! \
+\
+☁️ interested in: full-stack dev, machine learning, neuroscience, cloud, etc. \
+👾 currently practicing: java, typescript, c, python, + more \
+💳 incoming swe intern @ visa, working on agentic commerce
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
