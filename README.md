@@ -6,7 +6,9 @@
 a computer science student at the University of Washington,
 avidly exploring the intersections of computing, language, & human-centered design. 
 interested in full-stack dev, neuroscience, ai/ml, etc. 
-currently practicing java, typescript, c, python, + more. check out my work!
+currently practicing java, typescript, c, python, + more. 
+incoming swe intern @ visa, working on agentic commerce.
+check out my work!
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
