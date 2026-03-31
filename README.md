@@ -6,8 +6,8 @@
 a computer science student at the University of Washington,
 avidly exploring the intersection of computing, social good, & human-centered design. check out my work! \
 \
-☁️ interested in: full-stack dev, machine learning, neuroscience, cloud, etc. \
-👾 currently practicing: java, typescript, c, python, + more \
+☁️ interested in: full-stack dev, machine learning, neuroscience, cloud computing, etc. \
+👾 currently practicing: data structures and algorithms, java, python, typescript + more \
 💳 incoming swe intern @ visa, working on agentic commerce
 
 <!--
