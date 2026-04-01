@@ -8,7 +8,7 @@ avidly exploring the intersection of computing, social good, & human-centered de
 \
 ☁️ interested in: full-stack dev, machine learning, neuroscience, cloud computing, etc. \
 👾 currently practicing: data structures and algorithms, java, python, typescript + more \
-💳 incoming swe intern @ visa, working on agentic commerce
+💳 incoming swe intern @ visa, working on the future of agentic commerce
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
