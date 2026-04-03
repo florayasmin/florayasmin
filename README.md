@@ -7,8 +7,8 @@ a computer science student at the University of Washington,
 avidly exploring the intersection of computing, social good, & human-centered design. check out my work! \
 \
 ☁️ interested in: full-stack dev, machine learning, neuroscience, cloud computing, etc. \
-👾 currently practicing: data structures & algos, java, python, typescript, design + more \
-💳 incoming swe intern @ visa, working on the future of agentic commerce
+💳 incoming swe intern @ <span><strong>visa</strong></span>, working on agentic commerce - currently working with [bideshi.co](https://bideshi.co) \
+👾 currently practicing: data structures & algos, java, python, typescript, design + more
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
