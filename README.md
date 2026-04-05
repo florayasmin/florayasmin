@@ -8,7 +8,7 @@ avidly exploring the intersection of computing, social good, & human-centered de
 \
 ☁️ interested in: full-stack dev, machine learning, neuroscience, cloud computing, etc. \
 👾 currently practicing: data structures & algos, java, python, typescript, design + more \
-💳 incoming swe intern @ <span><strong>visa</strong></span>, currently doing web dev with [bideshi.co](https://bideshi.co)
+💳 incoming swe intern @ <span><strong>[visa](https://corporate.visa.com/en/about-visa.html)</strong></span>, currently doing web dev with [bideshi](https://www.instagram.com/the.bideshi/)
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
