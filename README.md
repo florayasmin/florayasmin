@@ -4,7 +4,8 @@
 
 ### hey! i'm flora :)
 a computer science student at the University of Washington,
-avidly exploring the intersection of computing & social good. check out my work! \
+avidly exploring the intersections of computing & social good. \
+check out my work! \
 \
 ☁️ interested in: full-stack dev, machine learning, neuroscience, cloud computing, etc. \
 👾 currently practicing: data structures & algos, java, python, typescript, design + more \
