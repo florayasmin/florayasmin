@@ -2,12 +2,13 @@
   <img src="greeting.svg" alt="Animated Greeting" />
 </div>
 
-### hi! i'm flora :)
+### hey! i'm flora :)
 a computer science student at the University of Washington,
-avidly exploring the intersection of computing, social good, & human-centered design. check out my work! \
+avidly exploring the intersection of computing & social good. check out my work! \
 \
 ☁️ interested in: full-stack dev, machine learning, neuroscience, cloud computing, etc. \
-👾 currently practicing: data structures & algos, java, python, typescript, design + more
+👾 currently practicing: data structures & algos, java, python, typescript, design + more \
+💳 incoming swe intern @ visa + doing web dev for [bideshi.co](http://bideshi.co/)
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
