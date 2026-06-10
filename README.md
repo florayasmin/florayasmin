@@ -3,13 +3,9 @@
 </div>
 
 ### hey! i'm flora :)
-a computer science student at the University of Washington,
-avidly exploring the intersections of computing & social good. \
-check out my work! \
-\
-☁️ interested in: full-stack dev, machine learning, neuroscience, cloud computing, etc. \
-👾 currently practicing: data structures & algos, java, python, typescript, design + more \
-💳 incoming swe intern @ visa + doing web dev for [bideshi.co](http://bideshi.co/)
+🌼 a computer science student at the university of washington \
+☁️ interested in: full-stack dev, machine learning, theory, neuroscience, etc. \
+👾 currently practicing: data structures & algorithms, java, python, design + more \
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
