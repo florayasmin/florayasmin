@@ -5,7 +5,7 @@
 ### hey! i'm flora :)
 🌼 a computer science undergraduate at the university of washington \
 ☁️ interested in: full-stack dev, machine learning, theory, neural engineering, etc. \
-👾 currently practicing: data structures & algos, java, python, design + more
+👾 currently practicing: algorithms, java, python, hardware + more
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
