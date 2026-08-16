@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="greeting.svg" alt="Animated Greeting" />
+  <img src="greeting.svg" alt="Animated stylized artworks" />
 </div>
 
 ### hey! i'm flora :)
