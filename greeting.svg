@@ -94,6 +94,8 @@
         <path d="M60 90 C140 50 230 44 310 78" stroke="#2c4f78" stroke-width="11" opacity="0.8"/>
         <path d="M250 44 C330 8 430 14 510 46" stroke="#d5e4f2" stroke-width="4" opacity="0.45"/>
         <path d="M620 58 C690 28 780 32 860 64" stroke="#c5d8ea" stroke-width="5" opacity="0.4"/>
+        <ellipse cx="430" cy="52" rx="92" ry="20" stroke="#6f93b8" stroke-width="10" opacity="0.55" transform="rotate(-18 430 52)"/>
+        <ellipse cx="430" cy="52" rx="54" ry="11" stroke="#d7e6f4" stroke-width="4" opacity="0.4" transform="rotate(-18 430 52)"/>
       </g>
 
       <g transform="translate(805 40)">
@@ -144,23 +146,23 @@
     <g>
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.17;0.20;0.37;0.40;1" dur="30s" repeatCount="indefinite"/>
       <rect width="1000" height="200" fill="#f3f0e7"/>
-      <rect x="248" y="0" width="458" height="132" fill="#e11d2e">
+      <rect x="250" y="0" width="446" height="140" fill="#e11d2e">
         <animate attributeName="fill" values="#e11d2e;#ef3344;#e11d2e" dur="6s" repeatCount="indefinite"/>
       </rect>
       <rect x="0" y="0" width="78" height="58" fill="#f1c40f"/>
-      <rect x="80" y="148" width="160" height="52" fill="#f1c40f"/>
-      <rect x="888" y="148" width="112" height="52" fill="#1d4ed8">
+      <rect x="88" y="150" width="152" height="50" fill="#f1c40f"/>
+      <rect x="890" y="150" width="110" height="50" fill="#1d4ed8">
         <animate attributeName="fill" values="#1d4ed8;#2563eb;#1d4ed8" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <rect x="0" y="148" width="78" height="52" fill="#111"/>
+      <rect x="0" y="150" width="78" height="50" fill="#111"/>
       <g fill="#111">
         <rect x="78" y="0" width="10" height="200"/>
         <rect x="240" y="0" width="10" height="200"/>
         <rect x="696" y="0" width="12" height="200"/>
         <rect x="878" y="0" width="12" height="200"/>
-        <rect x="0" y="58" width="706" height="10"/>
+        <rect x="0" y="58" width="240" height="10"/>
         <rect x="0" y="140" width="1000" height="10"/>
-        <rect x="706" y="0" width="294" height="8"/>
+        <rect x="708" y="0" width="292" height="8"/>
       </g>
     </g>
 
@@ -176,10 +178,22 @@
 
       <g>
         <animateTransform attributeName="transform" type="translate" values="0 0; 16 -3; 0 0; -10 2; 0 0" dur="12s" repeatCount="indefinite"/>
-        <path d="M104 86 A58 22  -18 1 1 214 78 L168 90 Z" fill="#2c5538"/>
-        <path d="M278 130 A70 24  -16 1 1 412 118 L352 132 Z" fill="#3a6847"/>
-        <path d="M474 66 A50 18  -20 1 1 568 56 L528 68 Z" fill="#2a5137"/>
-        <path d="M52 152 A42 16  -14 1 1 132 144 L96 154 Z" fill="#335e41"/>
+        <g transform="translate(160 86) rotate(-18)">
+          <ellipse cx="0" cy="0" rx="56" ry="20" fill="#2c5538"/>
+          <path d="M0 0 L50 -7" stroke="#1c3a27" stroke-width="3"/>
+        </g>
+        <g transform="translate(340 128) rotate(-16)">
+          <ellipse cx="0" cy="0" rx="68" ry="22" fill="#3a6847"/>
+          <path d="M0 0 L60 -8" stroke="#244632" stroke-width="3"/>
+        </g>
+        <g transform="translate(520 64) rotate(-20)">
+          <ellipse cx="0" cy="0" rx="48" ry="17" fill="#2a5137"/>
+          <path d="M0 0 L42 -6" stroke="#1b3324" stroke-width="2.5"/>
+        </g>
+        <g transform="translate(90 150) rotate(-14)">
+          <ellipse cx="0" cy="0" rx="40" ry="15" fill="#335e41"/>
+          <path d="M0 0 L34 -5" stroke="#1d3a28" stroke-width="2.5"/>
+        </g>
         <g transform="translate(150 74)">
           <ellipse cx="0" cy="-9" rx="4.6" ry="11" fill="url(#petalCream)"/>
           <ellipse cx="0" cy="-9" rx="4.6" ry="11" fill="url(#petalCream)" transform="rotate(72)"/>
@@ -200,10 +214,22 @@
 
       <g>
         <animateTransform attributeName="transform" type="translate" values="0 0; -14 4; 0 0; 9 -2; 0 0" dur="14s" repeatCount="indefinite"/>
-        <path d="M640 110 A64 22  -18 1 1 762 98 L710 112 Z" fill="#274e38"/>
-        <path d="M812 60 A54 20  -18 1 1 916 50 L870 62 Z" fill="#3c6c4c"/>
-        <path d="M714 164 A72 24  -16 1 1 852 150 L788 166 Z" fill="#1d4532"/>
-        <path d="M914 132 A40 15  -14 1 1 990 124 L956 134 Z" fill="#315e42"/>
+        <g transform="translate(700 108) rotate(-18)">
+          <ellipse cx="0" cy="0" rx="62" ry="20" fill="#274e38"/>
+          <path d="M0 0 L54 -7" stroke="#173226" stroke-width="3"/>
+        </g>
+        <g transform="translate(860 58) rotate(-18)">
+          <ellipse cx="0" cy="0" rx="52" ry="18" fill="#3c6c4c"/>
+          <path d="M0 0 L46 -6" stroke="#234332" stroke-width="3"/>
+        </g>
+        <g transform="translate(780 162) rotate(-16)">
+          <ellipse cx="0" cy="0" rx="70" ry="22" fill="#1d4532"/>
+          <path d="M0 0 L62 -8" stroke="#132e21" stroke-width="3"/>
+        </g>
+        <g transform="translate(950 130) rotate(-14)">
+          <ellipse cx="0" cy="0" rx="38" ry="14" fill="#315e42"/>
+          <path d="M0 0 L32 -5" stroke="#1b3324" stroke-width="2.5"/>
+        </g>
         <g transform="translate(696 96)">
           <ellipse cx="0" cy="-9.5" rx="5" ry="11.5" fill="url(#petalPink)"/>
           <ellipse cx="0" cy="-9.5" rx="5" ry="11.5" fill="url(#petalPink)" transform="rotate(72)"/>
@@ -272,8 +298,8 @@
         </g>
 
         <g fill="#6b3f24">
-          <path d="M424 144 C468 136 514 148 556 140 L548 158 C504 148 462 160 420 154 Z"/>
-          <path d="M498 128 C536 122 572 132 604 126 L598 140 C566 132 532 140 496 136 Z"/>
+          <path d="M418 152 C430 140 470 136 520 142 C548 146 560 144 568 140 L562 158 C548 152 520 156 478 154 C448 152 428 158 418 152Z"/>
+          <path d="M496 136 C508 126 544 122 580 128 C598 130 608 128 614 124 L610 140 C596 134 572 138 540 136 C518 134 504 140 496 136Z"/>
         </g>
         <g stroke="#e2d0b0" stroke-width="1.1" fill="none">
           <path d="M432 150 C470 144 510 152 544 146"/>
