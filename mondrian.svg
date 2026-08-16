@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 80" width="1000" height="80" role="img" aria-label="Animated Mondrian-style composition">
-  <rect width="1000" height="80" fill="#f3f0e7"/>
-  <rect x="250" y="0" width="446" height="56" fill="#e11d2e">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Animated Mondrian-style composition">
+  <rect width="1000" height="200" fill="#f3f0e7"/>
+  <rect x="250" y="0" width="446" height="140" fill="#e11d2e">
     <animate attributeName="fill" values="#e11d2e;#ef3344;#e11d2e" dur="6s" repeatCount="indefinite"/>
   </rect>
-  <rect x="0" y="0" width="78" height="24" fill="#f1c40f"/>
-  <rect x="88" y="62" width="152" height="18" fill="#f1c40f"/>
-  <rect x="890" y="62" width="110" height="18" fill="#1d4ed8">
+  <rect x="0" y="0" width="78" height="58" fill="#f1c40f"/>
+  <rect x="88" y="150" width="152" height="50" fill="#f1c40f"/>
+  <rect x="890" y="150" width="110" height="50" fill="#1d4ed8">
     <animate attributeName="fill" values="#1d4ed8;#2563eb;#1d4ed8" dur="7s" repeatCount="indefinite"/>
   </rect>
-  <rect x="0" y="62" width="78" height="18" fill="#111"/>
+  <rect x="0" y="150" width="78" height="50" fill="#111"/>
   <g fill="#111">
-    <rect x="78" y="0" width="10" height="80"/>
-    <rect x="240" y="0" width="10" height="80"/>
-    <rect x="696" y="0" width="12" height="80"/>
-    <rect x="878" y="0" width="12" height="80"/>
-    <rect x="0" y="24" width="240" height="6"/>
-    <rect x="0" y="56" width="1000" height="6"/>
-    <rect x="708" y="0" width="292" height="5"/>
+    <rect x="78" y="0" width="10" height="200"/>
+    <rect x="240" y="0" width="10" height="200"/>
+    <rect x="696" y="0" width="12" height="200"/>
+    <rect x="878" y="0" width="12" height="200"/>
+    <rect x="0" y="58" width="240" height="10"/>
+    <rect x="0" y="140" width="1000" height="10"/>
+    <rect x="708" y="0" width="292" height="8"/>
   </g>
 </svg>
