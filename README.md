@@ -3,9 +3,10 @@
 </div>
 
 ### hey! i'm flora :)
-🌼 a computer science undergraduate at the university of washington \
-☁️ interested in: full-stack dev, ai/machine learning, neural engineering, etc. \
-👾 currently: swe intern @ visa + practicing algorithms, python, and more
+here's a little about me, i'm: \
+🌺 an undergrad studying computer science at uw seattle \
+🧠 computational research assistant @ [anna gillespie lab](https://www.gillespie-lab.com/) \
+👾 currently: swe intern for [visa](https://www.visaacceptance.com/en-us.html) acceptance solutions (analytics team!)
 
 <!--
 **florayasmin/florayasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
