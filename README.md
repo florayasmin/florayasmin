@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="mondrian.svg" alt="Animated Mondrian-style composition" />
-</div>
+</div> -->
 
 ### hey! i'm flora :)
 here's a little about me, i'm: \
