@@ -5,7 +5,7 @@
 ### hey! i'm flora :)
 here's a little about me, i'm: \
 🌺 an undergrad studying computer science at uw seattle \
-🧠 computational research assistant @ [anna gillespie lab](https://www.gillespie-lab.com/) \
+🧠 computational research assistant @ [gillespie lab](https://www.gillespie-lab.com/) \
 👾 previously: swe intern for [visa](https://www.visaacceptance.com/en-us.html) acceptance solutions (analytics team!)
 
 <!--
